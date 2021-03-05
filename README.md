@@ -2,7 +2,7 @@
 
 This is a plugin for the [Glyphs font editor](https://glyphsapp.com).
 
-It adds a “Close Window” menu item to the file menu that closes the current font window.
+It adds a “Close Window” menu item to the File menu that closes the current font window.
 
 ![](Screenshot.png)
 
