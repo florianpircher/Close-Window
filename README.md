@@ -13,5 +13,3 @@ Set `com.FlorianPircher.CloseWindow.retainKeyboardEquivalent` to true if you don
 ## Licenses
 
 Plugin source code licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
-
-Plugin runner (`MacOS/Close Window`) copyright Georg Seifert (@schriftgestalt), Jan Gerner (@yanone), and Rainer Erich Scheichelbauer (@mekkablue); licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
